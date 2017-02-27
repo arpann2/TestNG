@@ -1,0 +1,9 @@
+# ignoring .idea folder and everything inside it
+.idea/**
+
+
+# ignoring iml file
+TestNG.iml
+
+# ignoring target folder
+target/**
