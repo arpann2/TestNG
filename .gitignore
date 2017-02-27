@@ -5,5 +5,5 @@
 # ignoring iml file
 TestNG.iml
 
-# ignoring target folder
+# ignoring target folder and everything inside it
 target/**
